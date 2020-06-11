@@ -51,7 +51,7 @@ namespace ytDownloadConvertMP3
         {
             if (Opacity > 0)
             {
-                Opacity -= 0.035;
+                Opacity -= 0.090;
             }
             else
             {
